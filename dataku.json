@@ -1,0 +1,83 @@
+{
+    "member": [
+        {
+            "nama": "Budi",
+            "pin": "123",
+            "saldo": 10000,
+            "gems": 10,
+            "voucher": 1,
+            "blokir": 0
+        }
+    ],
+    "vip": [
+        {
+            "nama": "Anto",
+            "pin": "567",
+            "saldo": 2000,
+            "gems": 10,
+            "voucher": 2,
+            "blokir": 1733632901.89096
+        }
+    ],
+    "pagi": [
+        {
+            "nomor": 1,
+            "produk": "Water Sleeping Mask",
+            "harga": 14
+        },
+        {
+            "nomor": 2,
+            "produk": "Clay Mask",
+            "harga": 16
+        },
+        {
+            "nomor": 3,
+            "produk": "Plumping Mask",
+            "harga": 12
+        },
+        {
+            "nomor": 4,
+            "produk": "Serum Mask",
+            "harga": 4
+        }
+    ],
+    "siang": [
+        {
+            "nomor": 1,
+            "produk": "Sunscreen spf 45",
+            "harga": 14
+        },
+        {
+            "nomor": 2,
+            "produk": "Micellar Water",
+            "harga": 12
+        },
+        {
+            "nomor": 3,
+            "produk": "Moisturizing Lotion",
+            "harga": 10
+        },
+        {
+            "nomor": 4,
+            "produk": "Toner",
+            "harga": 8
+        }
+    ],
+    "malam": [
+        {
+            "nomor": 1,
+            "produk": "Dewdrop Diffuser",
+            "harga": 75
+        },
+        {
+            "nomor": 2,
+            "produk": "Ultrasonic Diffuser",
+            "harga": 20
+        },
+        {
+            "nomor": 3,
+            "produk": "Lilin Aroma terapi",
+            "harga": 18
+        }
+    ]
+}
